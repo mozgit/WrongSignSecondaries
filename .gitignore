@@ -1,0 +1,7 @@
+#Ignore temporary files:
+._*
+#Ignore plots:
+plots/**/*.pdf
+plots/**/*.C
+#Ignore compiled functions:
+functions/*_cxx*
